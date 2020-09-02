@@ -18,3 +18,11 @@ The project was started to create a low budget solution for solving the problem 
 
 
 Visit the docs folder to understand the code flow and the output produced. 
+
+
+##### Youtube Link for the Project Description and Demo
+https://youtu.be/ZCYyE3JVDqY
+
+
+
+### *Deep Learning implementation of the problem statement coming soon*
